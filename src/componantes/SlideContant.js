@@ -1,10 +1,10 @@
 import React from 'react'
 
-const SlideContant = ({ item, indexValue }) => {
+const SlideContant = ({ item, indexValue, position }) => {
   const { id, imgUrl, demo, sourceCode, description, title, language } = item
   return (
     <>
-      <article className='slide-contant .active-slide'>
+      <article className={`slide-contant ${position}`}>
         <div className='lang'>
           {language.map((item, index) => {
             return <p key={index}>#{item}</p>
