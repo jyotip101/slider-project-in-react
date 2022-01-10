@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/slider-project-in-react/static/css/main.14c6b90a.css",
-    "main.js": "/slider-project-in-react/static/js/main.6896ed4e.js",
+    "main.css": "/slider-project-in-react/static/css/main.b6c3974c.css",
+    "main.js": "/slider-project-in-react/static/js/main.d9e1a7b2.js",
     "index.html": "/slider-project-in-react/index.html",
-    "main.14c6b90a.css.map": "/slider-project-in-react/static/css/main.14c6b90a.css.map",
-    "main.6896ed4e.js.map": "/slider-project-in-react/static/js/main.6896ed4e.js.map"
+    "main.b6c3974c.css.map": "/slider-project-in-react/static/css/main.b6c3974c.css.map",
+    "main.d9e1a7b2.js.map": "/slider-project-in-react/static/js/main.d9e1a7b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.14c6b90a.css",
-    "static/js/main.6896ed4e.js"
+    "static/css/main.b6c3974c.css",
+    "static/js/main.d9e1a7b2.js"
   ]
 }
