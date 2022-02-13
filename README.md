@@ -11,7 +11,7 @@ In this project, I have used two useEffect one for increasing and decreasing the
 
 <!-- DEMO -->
 
-## [Demo](https://jyotip101.github.io/slider-project-in-react/)
+## [Demo](https://thejyotipatel.github.io/slider-project-in-react/)
 
 <!-- TABLE OF CONTENTS -->
 
